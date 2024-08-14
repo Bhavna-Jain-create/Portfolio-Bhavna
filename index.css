@@ -270,10 +270,10 @@ body .auto-container{
     justify-content: center;
     height: 163px;
 }
-#section-skills .skills-list .skills-items:last-child {
+/* #section-skills .skills-list .skills-items:last-child {
 max-width: 100%;
 min-width: 98%;
-}
+} */
 #section-top-banner .auto-container{
   margin: 30px 15px 15px;
   padding: 20px 10px;
